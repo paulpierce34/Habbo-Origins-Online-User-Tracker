@@ -1,6 +1,9 @@
 ﻿## Output File
 $Outfile = "C:\Users\$env:USERNAME\Documents\habbo-origins-online-user-tracking.txt"
 
+## Output File (.csv)
+$CSVOutFile = "C:\Users\$env:USERNAME\Documents\habbo-origins-online-user-tracking.csv"
+
 ## Get Timestamp and format
 $TodayDate = Get-Date -Format yyyy-MM-dd-hh:mm:ss
 
@@ -26,3 +29,6 @@ OnlineUsers = $FinalObj;
 
 ## Write data to output .txt file specified above
 $Data | Write-Output >> $Outfile
+
+## Write output to .csv
+$Data | Select-Object Timestamp, OnlineUsers | Sort-Object Timestamp, OnlineUsers | Export-CSV -Path $CSVOutFile -NoTypeInformation -Append
