@@ -3,7 +3,9 @@ Powershell script to track online users for Habbo Origins
 
 # HOW TO USE
 1.) Git clone (or copy/paste into Powershell ISE)
+
 2.) Run script
+
 3.) Output file will be saved to your documents folder by default
 
 # WHY??
