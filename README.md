@@ -14,7 +14,7 @@ Powershell script to track online users and rare furni prices for Habbo Origins.
 I'm not entirely sure why I made this script. Shoutout to rarevalues.net for creating a pricing API for me when I requested it within an hour. I really don't want this game to fail <3
 
 # Output Examples
-
+<img width="637" alt="image" src="https://github.com/paulpierce34/Habbo-Origins-Online-User-Tracker/assets/33561650/7875f466-26c1-4f83-9f03-0f5d132327ec">
 
 <img width="359" alt="image" src="https://github.com/paulpierce34/Habbo-Origins-Online-User-Tracker/assets/33561650/fb09b825-304f-4ce1-b1f9-c766e4d618a8">
 
