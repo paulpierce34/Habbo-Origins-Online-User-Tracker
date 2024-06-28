@@ -1,4 +1,4 @@
-# Habbo-Origins-Online-User-Tracker
+# Habbo-Origins-User-And-Price-Tracker
 Powershell script to track online users and rare furni prices for Habbo Origins.
 
 # HOW TO USE
