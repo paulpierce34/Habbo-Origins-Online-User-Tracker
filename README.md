@@ -1,5 +1,5 @@
 # Habbo-Origins-Online-User-Tracker
-Powershell script to track online users for Habbo Origins
+Powershell script to track online users and rare furni prices for Habbo Origins.
 
 # HOW TO USE
 1.) Git clone (or copy/paste into Powershell ISE)
@@ -7,6 +7,8 @@ Powershell script to track online users for Habbo Origins
 2.) Run script
 
 3.) Output files (.txt and .csv) will be saved to your documents folder by default
+
+4.) (Optional) There is a Set-ScheduledHabboTask function you can run as admin after executing this script that will register a new scheduled task running at 12:30am everyday. This function assumes the script is saved to your documents folder.
 
 # WHY??
 I'm not entirely sure why I made this script. But I'm thinking I will create a scheduled task to run this daily and track online users. I really don't want this game to fail <3
