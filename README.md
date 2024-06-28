@@ -18,4 +18,8 @@ I'm not entirely sure why I made this script. But I'm thinking I will create a s
 
 <img width="319" alt="image" src="https://github.com/paulpierce34/Habbo-Origins-Online-User-Tracker/assets/33561650/56bda207-2148-432b-ad5e-533ef272be08">
 
+Scheduled Task (optional):
+<img width="401" alt="image" src="https://github.com/paulpierce34/Habbo-Origins-Online-User-Tracker/assets/33561650/fe2e7042-e908-4b12-b741-e22f90bcef72">
+
+
 
